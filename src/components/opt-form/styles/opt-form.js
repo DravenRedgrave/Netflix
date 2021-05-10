@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     display:flex;
     justify-content:center;
-    heigth:100%;
+    height:100%;
     margin-top:20px;
     flex-wrap:wrap;
     @media (max-width:1000px) {
@@ -18,14 +18,14 @@ export const Input = styled.input`
     width:100%;
     border:0;
     padding:10px;
-    heigth:70px;
+    height:70px;
     box-sizing:border-box;
 `;
 
 export const Button = styled.button`
     display:flex;
     align-items:center;
-    heigth:70px;
+    height:70px;
     background:#e50914;
     color:white;
     text-transform:uppercase;

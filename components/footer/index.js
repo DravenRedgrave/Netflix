@@ -29,3 +29,4 @@ Footer.Text = function FooterText({children,...resetProps}){
 Footer.Break = function FooterBreak({children,...resetProps}){
     return <Break {...resetProps}>{children}</Break>
 }
+

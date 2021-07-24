@@ -7,4 +7,3 @@ render(
    <><GlobalStyles/> <App /></>,
   document.getElementById('root')
 );
-
